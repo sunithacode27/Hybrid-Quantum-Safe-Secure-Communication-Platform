@@ -1,0 +1,5 @@
+Algorithm,Key Size,Speed,Quantum Safe
+RSA,2048,Slow,No
+DH,2048,Medium,No
+ECC,256,Fast,No
+ECDH,256,Very Fast,N

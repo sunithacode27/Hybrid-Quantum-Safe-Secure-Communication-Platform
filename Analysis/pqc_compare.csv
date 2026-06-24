@@ -1,0 +1,5 @@
+Algorithm,Speed,Key Size,NIST Status
+Kyber,Fast,Medium,Selected
+Dilithium,Fast,Large,Selected
+Falcon,Very Fast,Small,Selected
+SPHINCS+,Slow,Very Large,Selected
